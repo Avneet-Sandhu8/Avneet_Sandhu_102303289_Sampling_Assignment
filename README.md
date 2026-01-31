@@ -29,18 +29,18 @@ The dataset used is a **credit card fraud detection dataset**, where:
 Sampling-Assignment/
 │
 ├──  data/
-│   └── Creditcard_data.csv          # Raw credit card transaction data
+│   └── Creditcard_data.csv         
 │
 ├──  colab_notebooks/
-│   └── Sampling_Assignment.ipynb    # Complete implementation notebook
+│   └── Sampling_Assignment.ipynb    
 │
 ├──  results/
-│   └── accuracy_results.csv         # Model performance results
+│   └── accuracy_results.csv         
 │
 ├──  screenshots/
-│   └── (plots and outputs)          # Visualization outputs
+│   └── (plots and outputs)         
 │
-└──  README.md                      # Project documentation
+└──  README.md                      
 ```
 
 ---
@@ -163,7 +163,7 @@ Each model was trained and tested on **all five samples** to evaluate sampling i
 
 ---
 
-## 📈 Detailed Analysis
+##  Detailed Analysis
 
 ### Model Performance Analysis
 
@@ -265,13 +265,3 @@ For questions or discussions about this project:
 - **Roll No**: 102303289
 
 ---
-
-<div align="center">
-
-**⭐ If you found this helpful, please consider starring the repository! ⭐**
-
----
-
-*Made with 💻 and ☕ for Data Science Learning*
-
-</div>
