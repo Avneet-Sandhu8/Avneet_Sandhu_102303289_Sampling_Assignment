@@ -35,10 +35,7 @@ Sampling-Assignment/
 │   └── Sampling_Assignment.ipynb    
 │
 ├──  results/
-│   └── accuracy_results.csv         
-│
-├──  screenshots/
-│   └── (plots and outputs)         
+│   └── accuracy_results.csv                 
 │
 └──  README.md                      
 ```
