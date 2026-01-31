@@ -1,22 +1,8 @@
 # Avneet_Sandhu_102303289_Sampling_Assignment
-# 🎯 Sampling Assignment – Credit Card Fraud Detection
+#  Sampling Assignment – Credit Card Fraud Detection
 
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sampling-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
-</div>
-
----
-
-## 👨‍🎓 Student Information
-
-| Field | Details |
-|-------|---------|
-| **Name** | Avneet Sandhu |
-| **Roll No** | 102303289 |
+ **Name :** Avneet Sandhu 
+ **Roll No :**  102303289 
 
 ---
 
